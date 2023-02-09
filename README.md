@@ -2,10 +2,18 @@
 
 > Magento2 an open-source e-commerce platform written in PHP.
 
+&nbsp;
+&nbsp;
+
 > Here in this extension we are going to learn how to add Compare product count in header.
+
+&nbsp;
+&nbsp;
 
 > In this extension we have added have used plugin method to over-ride the Customer section Data & pass the compare product count with it.
 
+&nbsp;
+&nbsp;
 
 ## Installation Steps
 
@@ -22,5 +30,16 @@ php bin/magento setup:static-content:deploy -f
 
 php bin/magento cache:flush
 
+&nbsp;
+&nbsp;
+
+<kbd>
+
+![image1](https://user-images.githubusercontent.com/123800304/217771619-d099887d-35f6-4a25-8371-2f226723ea78.png)
+
+</kbd>
+
+&nbsp;
+&nbsp;
 
 ## Note : We have tested this option in Magento ver. 2.4.5-p1
